@@ -1,0 +1,11 @@
+ethernets:
+    ens18:
+        addresses:
+            - 10.10.5.100/24
+        gateway4: 10.10.5.1
+        nameservers:
+            addresses:
+                - 8.8.8.8
+                - 8.8.4.4
+            search: []
+version: 2
