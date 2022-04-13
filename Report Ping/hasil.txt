@@ -1,0 +1,14 @@
+192.168.2.1 is Online
+192.168.2.2 is Offline
+192.168.2.3 is Offline
+192.168.2.4 is Offline
+192.168.2.5 is Offline
+192.168.2.6 is Offline
+192.168.2.7 is Offline
+192.168.2.8 is Offline
+192.168.2.9 is Offline
+192.168.2.10 is Offline
+192.168.2.11 is Offline
+192.168.2.12 is Offline
+192.168.2.13 is Offline
+192.168.2.14 is Online
