@@ -1,0 +1,140 @@
+192.168.11.1is recheable
+192.168.11.2is unreachable
+192.168.11.3is unreachable
+192.168.11.4is unreachable
+192.168.11.5is unreachable
+192.168.11.6is unreachable
+192.168.11.7is unreachable
+192.168.11.8is unreachable
+192.168.11.9is unreachable
+192.168.11.10is unreachable
+192.168.11.11is unreachable
+192.168.11.12is unreachable
+192.168.11.13is unreachable
+192.168.11.14is recheable
+192.168.11.1 is recheable
+192.168.11.2 is unreachable
+192.168.11.3 is unreachable
+192.168.11.4 is unreachable
+192.168.11.5 is unreachable
+192.168.11.6 is unreachable
+192.168.11.7 is unreachable
+192.168.11.8 is unreachable
+192.168.11.9 is unreachable
+192.168.11.10 is unreachable
+192.168.11.11 is unreachable
+192.168.11.12 is unreachable
+192.168.11.13 is unreachable
+192.168.11.14 is recheable
+192.168.11.1 is recheable
+192.168.11.2 is unreachable
+192.168.11.3 is unreachable
+192.168.11.4 is unreachable
+192.168.11.5 is unreachable
+192.168.11.6 is unreachable
+192.168.11.7 is unreachable
+192.168.11.8 is unreachable
+192.168.11.9 is unreachable
+192.168.11.10 is unreachable
+192.168.11.11 is unreachable
+192.168.11.12 is unreachable
+192.168.11.13 is unreachable
+192.168.11.14 is recheable
+192.168.11.1 is recheable
+192.168.11.2 is unreachable
+192.168.11.3 is unreachable
+192.168.11.4 is unreachable
+192.168.11.5 is unreachable
+192.168.11.6 is unreachable
+192.168.11.7 is unreachable
+192.168.11.8 is unreachable
+192.168.11.9 is unreachable
+192.168.11.10 is unreachable
+192.168.11.11 is unreachable
+192.168.11.12 is unreachable
+192.168.11.13 is unreachable
+192.168.11.14 is recheable
+192.168.11.1 is recheable
+192.168.11.2 is unreachable
+192.168.11.3 is unreachable
+192.168.11.4 is unreachable
+192.168.11.5 is unreachable
+192.168.11.6 is unreachable
+192.168.11.7 is unreachable
+192.168.11.8 is unreachable
+192.168.11.9 is unreachable
+192.168.11.10 is unreachable
+192.168.11.11 is unreachable
+192.168.11.12 is unreachable
+192.168.11.13 is unreachable
+192.168.11.14 is recheable
+192.168.11.1 is recheable
+192.168.11.2 is unreachable
+192.168.11.3 is unreachable
+192.168.11.4 is unreachable
+192.168.11.5 is unreachable
+192.168.11.6 is unreachable
+192.168.11.7 is unreachable
+192.168.11.8 is unreachable
+192.168.11.9 is unreachable
+192.168.11.10 is unreachable
+192.168.11.11 is unreachable
+192.168.11.12 is unreachable
+192.168.11.13 is unreachable
+192.168.11.14 is recheable
+192.168.11.1 is recheable
+192.168.11.2 is unreachable
+192.168.11.3 is unreachable
+192.168.11.4 is unreachable
+192.168.11.5 is unreachable
+192.168.11.6 is unreachable
+192.168.11.7 is unreachable
+192.168.11.8 is unreachable
+192.168.11.9 is unreachable
+192.168.11.10 is unreachable
+192.168.11.11 is unreachable
+192.168.11.12 is unreachable
+192.168.11.13 is unreachable
+192.168.11.14 is recheable
+192.168.11.1 is recheable
+192.168.11.2 is unreachable
+192.168.11.3 is unreachable
+192.168.11.4 is unreachable
+192.168.11.5 is unreachable
+192.168.11.6 is unreachable
+192.168.11.7 is unreachable
+192.168.11.8 is unreachable
+192.168.11.9 is unreachable
+192.168.11.10 is unreachable
+192.168.11.11 is unreachable
+192.168.11.12 is unreachable
+192.168.11.13 is unreachable
+192.168.11.14 is recheable
+192.168.11.1 is recheable
+192.168.11.2 is unreachable
+192.168.11.3 is unreachable
+192.168.11.4 is unreachable
+192.168.11.5 is unreachable
+192.168.11.6 is unreachable
+192.168.11.7 is unreachable
+192.168.11.8 is unreachable
+192.168.11.9 is unreachable
+192.168.11.10 is unreachable
+192.168.11.11 is unreachable
+192.168.11.12 is unreachable
+192.168.11.13 is unreachable
+192.168.11.14 is recheable
+192.168.11.1 is recheable
+192.168.11.2 is unreachable
+192.168.11.3 is unreachable
+192.168.11.4 is unreachable
+192.168.11.5 is unreachable
+192.168.11.6 is unreachable
+192.168.11.7 is unreachable
+192.168.11.8 is unreachable
+192.168.11.9 is unreachable
+192.168.11.10 is unreachable
+192.168.11.11 is unreachable
+192.168.11.12 is unreachable
+192.168.11.13 is unreachable
+192.168.11.14 is recheable
