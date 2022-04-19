@@ -1,9 +1,9 @@
 import paramiko
 
-host = "10.10.5.20"
+host = "IP ADDR"
 port = 22
-username = "astro"
-password = "colokcabut"
+username = "USERNAME"
+password = "PASSWORD"
 
 command = "sudo -S -p '' reboot"
 
