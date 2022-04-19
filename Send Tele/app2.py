@@ -1,8 +1,8 @@
 import telepot
 
 
-token = '5371063625:AAGuxLU8Cw2V2v09n9PUGXqC-nnNdWWO-DA' # telegram token
-receiver_id = 450126196 # https://api.telegram.org/bot<TOKEN>/getUpdates
+token = 'YOUR TOKEN' # telegram token
+receiver_id = YOUR ID # https://api.telegram.org/bot<TOKEN>/getUpdates
 
 
 bot = telepot.Bot(token)
